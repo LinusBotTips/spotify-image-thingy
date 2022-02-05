@@ -17,7 +17,7 @@ import {
 } from '../../config';
 
 /**
- * Returns Spotify authorization link, for author during development only.
+ * Returns Spot ify authorization link, for author during development only.
  *
  * @param {VercelRequest} req Request for login URL.
  * @param {VercelResponse} res Response to request.
