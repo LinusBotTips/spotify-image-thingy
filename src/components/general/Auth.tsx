@@ -9,7 +9,7 @@ import Text from './Text';
 export interface IAuthParameters {
   refreshToken: string;
 }
-
+ 
 /**
  * Pretty way to display refresh token in development mode.
  * 
