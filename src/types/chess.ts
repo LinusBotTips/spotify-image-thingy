@@ -16,6 +16,7 @@ export interface ICurrentDailyGame {
   match: string
 }
 
+
 export interface ICurrentDailyGames {
   games: ICurrentDailyGame[];
 }
