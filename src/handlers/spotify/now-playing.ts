@@ -87,6 +87,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
       track,
     }));
 
+    
     return res.send(text);
   } catch (error) {
     console.log(error);
