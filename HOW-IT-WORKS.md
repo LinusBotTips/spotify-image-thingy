@@ -7,7 +7,7 @@ Hope you like the profile page README.md.
 I had been working with [Spotify's API](https://developer.spotify.com/documentation/web-api/) for a year and thought what he did was awesome! Read through is code to figure out what he did, and implemented it here.
 
 # The Magic
-
+ a
 The README.md is made dynamic by creating a back-end API that returns images. By linking our `<img>` tags in the README.md to this back-end, each time the page is loaded, a new image is requested.
 
 ```
